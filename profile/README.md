@@ -9,6 +9,9 @@ A Szent József Hackathon projekt Elek László SJ-től indul ([@borazslo](https
 Mivel nem főállású, professzionális programozó, sem nem profi projekt manager, de még scrum master sem, így Szent József Hackathon felületeinek kialakítása sem professzionális. 
 De ez ne tévesszen meg senkit, a közösségbe hosszabb-rövidebb ideig beszálló és besegítő tagok között a szakmaiság magas szinten jelen van, miközben belépő szintű programozóknak is tudunk lehatárolt szép részfeladatokat adni. (Amik akár szakmai munkaként egyetemen is beadhatóak lehetnek.)
 
+### [Projektek](/projektek.md)
+Már több mint egy tucat olyan magyar nyelvű katolikus digitális keresztény projekt van, amihez valamilyen módon kapcsolódunk. Szívesen bővítjük a listát, és várunk mindenkit aki bekapcsolódna. A teljes listához, forráskódhoz, felelősökhöz és fejleszteni valókhoz nézd át a listánkat: [/projektek.md](/projektek.md)
+
 Várunk hát mindenkit! Gyertek, és tegyük jobbá a keresztény hitünket is megerősítő alkalmazásokat/oldalakat/eszközöket/kütyüket!
 
 https://szentjozsef.jezsuita.hu/szent-jozsef-hackathon/
