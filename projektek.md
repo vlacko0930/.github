@@ -69,7 +69,18 @@ Mintegy 5000 magyar nyelvű misézőhely összefogása és frissentartása nem k
 ## Open Street Map: Katolikus Templomok
 Az Open Street Map térképadatbázisban kezelt katolikus adatok kérdésköre megér egy teljes külön dokumentumot: [katolikusOSM](/katolikusOSM.md)
 
+## Miserend Mobil App
+![last commit](https://img.shields.io/github/last-commit/bmaczak/Miserend-Flutter?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/bmaczak/Miserend-Flutter?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/bmaczak/Miserend-Flutter?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/bmaczak/Miserend-Flutter?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-bmaczak-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbmaczak)
 
+A felújított flutter alapú miserend alkalmazásba besegítés. 
+
+- Kulcsszavak: *android, flutter*
+- Forráskód: https://github.com/bmaczak/Miserend-Flutter
+  
 ## MisEnapló
 ![last commit](https://img.shields.io/github/last-commit/misenaplo/misenaplo?style=for-the-badge)
 ![commit activity](https://img.shields.io/github/commit-activity/y/misenaplo/misenaplo?style=for-the-badge) 
@@ -116,7 +127,12 @@ Android és katolikus. Összefogja a legtöbb elérhető magyar katolikus anyago
 - Forráskód: https://github.com/agu5a/androkat és hozzá Wiki: https://github.com/agu5a/androkat/wiki
 - Honlap: https://androkat.hu/
 
-**A fejlesztő Gulyás Arnold is itt lesz a II. Szent József Hackathonon**
+## Szentségimádás, örökimádás szervező alkalmazás
+Szakdolgozatként indult fejlesztés amely a II. Szent József Hackathonon debütál. Lehet csatlakozni!
+
+- Kulcsszavak: *Angular, Java, adatbázis*
+
+**A fejlesztő T. Lilla is itt lesz a II. Szent József Hackathonon**
 
 # Érdekes projektek még
 Ezek fejlesztése egyáltalán nem prioritás mostanában, de bármikor lehetőség van a bekapcsolódásba
