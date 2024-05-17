@@ -134,6 +134,12 @@ Szakdolgozatként indult fejlesztés amely a II. Szent József Hackathonon debü
 
 **A fejlesztő T. Lilla is itt lesz a II. Szent József Hackathonon**
 
+## Ignáci Ima alkalmazás
+Android alkalmazás ami többféle imád levezet, akár hangosan kísérve azt. Megrendelte az Ignáci Pedagógi Műhely
+
+- Kulcsszavak: *android*
+- Honlap: https://play.google.com/store/apps/details?id=hu.jezsuita.ima.ignaci
+
 # Érdekes projektek még
 Ezek fejlesztése egyáltalán nem prioritás mostanában, de bármikor lehetőség van a bekapcsolódásba
 
