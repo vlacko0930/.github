@@ -13,6 +13,8 @@ Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket
 - Forráskód: [github.com/diatar/diatar-android](https://github.com/diatar/diatar-android), [diatar/diatar-lazarus](https://github.com/diatar/diatar-lazarus), [diatar/diatar-dtxs](https://github.com/diatar/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar/diatar-web)
 - Honlap: [diatar.eu](https://diatar.eu)
 
+**A fejlesztő Hozé is itt lesz a II. Szent József Hackathonon**
+
 ### Legérdekesebb fejlesztési irányok, amire szükség lenne:
 - **A diatárba meg előkészíthetnénk az igenaptár alapján minden olvasmányt jó előre. Ezek egyszerű szövegfájlok speciál formátumban.**
 - Bibliával betanított SpeechToText dia gyártásával könnyen feliratozni lehetne még a prédikációt is, ami sokaknak hasnzos.
@@ -90,6 +92,8 @@ A nyílt forráskódú pont és pecsétgyűjtő misenapló digitális változata
 - Forráskód: [github.com/misenaplo/misenaplo](https://github.com/misenaplo/misenaplo)
 - Honlap: [misenaplo.hu](https://misenaplo.hu)
 
+**A fejlesztő Vörös László is itt lesz a II. Szent József Hackathonon**
+
 ## Zsolozsma
 ![last commit](https://img.shields.io/github/last-commit/breviar-sk/Liturgia-hodin-online?style=for-the-badge)
 ![commit activity](https://img.shields.io/github/commit-activity/y/breviar-sk/Liturgia-hodin-online?style=for-the-badge) 
@@ -107,6 +111,23 @@ A digitális zsolozsma szinte minden platformon elérhető már.
 - A felületen főként a beállítások környékén nagyon sok minden elég magyartalan. Ezeket lehetne javítani.
 - [@vlacko0930](https://github.com/vlacko0930) vezetésével a HTML fájlokban lehet rabszolgamunkában átalakításokat végezni pl. a nyomtathatóság érdekében. Lásd: https://github.com/breviar-sk/Liturgia-hodin-online/issues/11
 - Egyszer majd: a projekt alkalmassá tétetel hanganyagok fogadására és összeállítására #hangoszsolozsma jeligére.
+
+## AndroKat
+![last commit](https://img.shields.io/github/last-commit/agu5a/androkat?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/agu5a/androkat?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/agu5a/androkat?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/agu5a/androkat?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-agu5a-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fagu5a)
+
+Android és katolikus. Összefogja a legtöbb elérhető magyar katolikus anyagot az interneten egy alkalmazásba és honlapba.
+
+- Kulcsszavak: *NET 7 MAUI*
+- Platformok: *android, web*
+- Forráskód: https://github.com/agu5a/androkat és hozzá Wiki: https://github.com/agu5a/androkat/wiki
+- Honlap: https://androkat.hu/
+
+**A fejlesztő Gulyás Arnold is itt lesz a II. Szent József Hackathonon**
+
   
 # Ami még érdekes lehet
 
