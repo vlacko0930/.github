@@ -66,19 +66,9 @@ Mintegy 5000 magyar nyelvű misézőhely összefogása és frissentartása nem k
 - Amíg a kód portolása és újrarendezése nem teljes, addig csak nagyon körülhatárolt fejlesztéseket lehet végrehajtani. Lásd: https://github.com/borazslo/miserend.hu/issues/177 Portolás fővezére: [@connorhu](https://github.com/connorhu)
 - **Komplex miserend felviteléhez új és egyszerű beviteli forma a frontenden. Lásd: https://github.com/borazslo/miserend.hu/issues/144**
 
-## OSM: Katolikus Templomok
+## Open Street Map: Katolikus Templomok
+Az Open Street Map térképadatbázisban kezelt katolikus adatok kérdésköre megér egy teljes külön dokumentumot: [katolikusOSM](/katolikusOSM.md)
 
-Az Open Street Map nyílt térképadatbázisba folyamatosan visszük fel és frissítjük a katolikus templomok és egyházigazgatási határok adatait. A miserend.hu nagyon erősen építkezik erre.
-- Kulszavak: *OSM, térkép*
-- Projekt oldala: https://wiki.openstreetmap.org/wiki/Hungary/Katolikus_Templomok
-
-### Lehetséges fejleszések:
-- **Városi miserendek térképes előkészítése nyomtatása (OSM + miserend.hu)**
-- **(Szeged) városi puzzle katolikus helyekkel kiemelve**
-- A [maradék 53](https://miserend.hu/josm) (főként) erdélyi templom megtalálása a térképen.
-- Budapesti plébániák már [megrajzolt határainak](https://www.google.com/maps/d/u/0/viewer?ll=47.48244397989413%2C19.081137596252695&z=14&mid=170dTG1OAQBJjuEN_3fFPXtFrrQwY93D4) felvitele az OSM-be.
-- Szlováikai és romániai katolikus egyházmegyék határainak felrajzolása
-- A miserend.hu adatainak áttöltéséhez katolikus key:value párok meghatározása.
 
 ## MisEnapló
 ![last commit](https://img.shields.io/github/last-commit/misenaplo/misenaplo?style=for-the-badge)
@@ -183,16 +173,3 @@ A weboldalak szövegében található szentírási hivakozásokat jeleníti meg,
 - Forráskód: https://github.com/molnarm/igemutato
 - Honlap: https://molnarm.github.io/igemutato/
 
-  
-# Ami még érdekes lehet
-
-## LiturgicalCalendarAPI
-![last commit](https://img.shields.io/github/last-commit/Liturgical-Calendar/LiturgicalCalendarAPI?style=for-the-badge)
-![commit activity](https://img.shields.io/github/commit-activity/y/Liturgical-Calendar/LiturgicalCalendarAPI?style=for-the-badge) 
-![issues](https://img.shields.io/github/issues/Liturgical-Calendar/LiturgicalCalendarAPI?style=for-the-badge)
-![pull requests](https://img.shields.io/github/issues-pr/Liturgical-Calendar/LiturgicalCalendarAPI?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-JohnRDOrazio-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FJohnRDOrazio)
-
-Nyílt liturgikus naptár. Bár a zsolozsma naptárja mindent visz jelenleg, de érdemes lehet erre figyelni és a fordításba akár besegíteni: https://translate.johnromanodorazio.com/engage/liturgical-calendar/
-- Forráskód: https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI
-- Honlap: https://litcal.johnromanodorazio.com/
