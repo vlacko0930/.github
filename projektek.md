@@ -49,7 +49,11 @@ Shelly kütyük beszerelésével lámpakapcsolásra jelzést küldünk a szerver
 ### Következő lépés:
 - **Öt szegedi templomban akár shelly beszerelés is része lehet a programnak.**
 
-## Miserend.hu
+## SZENTIRAS.HU
+
+A mostani https://szentiras.hu honlap még a kissé elavult de igen gyors keresővel rendelkező https://github.com/borazslo/szentiras.hu kód alapján fut. De ez úgy tűnik nem fog tovább fejlődni, mert készül a https://teszt.szentiras.hu/ . A pontos ütemterv és az API jövője még nem ismert.
+
+## MISEREND.HU
 ![](https://img.shields.io/github/last-commit/borazslo/miserend.hu?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/y/borazslo/miserend.hu?style=for-the-badge) 
 ![](https://img.shields.io/github/issues/borazslo/miserend.hu?style=for-the-badge)
