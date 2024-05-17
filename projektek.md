@@ -128,6 +128,36 @@ Android és katolikus. Összefogja a legtöbb elérhető magyar katolikus anyago
 
 **A fejlesztő Gulyás Arnold is itt lesz a II. Szent József Hackathonon**
 
+# Érdekes projektek még
+Ezek fejlesztése egyáltalán nem prioritás mostanában, de bármikor lehetőség van a bekapcsolódásba
+
+## Ignáci Szikrák
+![](https://img.shields.io/github/last-commit/szentjozsefhackathon/szikrak.jezsuita.hu?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/szikrak.jezsuita.hu?style=for-the-badge) 
+![](https://img.shields.io/github/issues/szentjozsefhackathon/szikrak.jezsuita.hu?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/szentjozsefhackathon/szikrak.jezsuita.hu?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-szentjozsefhackathon-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
+
+Loyolai Szent Ignác szikráiból összeállított könyv honlapja és facebook + instagram automatája, ami [képeket is generál](https://szikrak.jezsuita.hu/01/20/kep).
+
+- Kulcsszavak: *php, facebook, szöveggondozás*
+- Forráskód: [github.com/szentjozsefhackathon/szikrak.jezsuita.hu](https://github.com/szentjozsefhackathon/szikrak.jezsuita.hu)
+- Honlap: https://szikrak.jezsuita.hu, https://www.facebook.com/ignaciszikrak, https://www.instagram.com/ignaciszikrak/
+
+## Népszámlálási adatok katolikus szemmel
+![](https://img.shields.io/github/last-commit/szentjozsefhackathon/katolikus-nepszamlalas?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/katolikus-nepszamlalas?style=for-the-badge) 
+![](https://img.shields.io/github/issues/szentjozsefhackathon/katolikus-nepszamlalas?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/szentjozsefhackathon/katolikus-nepszamlalas?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-szentjozsefhackathon-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
+
+KSH népszámlálása adatai egyházmegyei szintre lebontva és megjelenítve, amiket egyesítünk a Katolikus Egyház adataival.
+
+- Kulcsszavak: *javascript, python, adatbázis*
+- Forráskód: https://github.com/szentjozsefhackathon/katolikus-nepszamlalas
+- Honlap: https://szentjozsefhackathon.github.io/katolikus-nepszamlalas/
+
+
   
 # Ami még érdekes lehet
 
