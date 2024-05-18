@@ -114,8 +114,11 @@ A digitális zsolozsma szinte minden platformon elérhető már.
 
 ### Feladatok és fejlesztések:
 - A felületen főként a beállítások környékén nagyon sok minden elég magyartalan. Ezeket lehetne javítani.
-- [@vlacko0930](https://github.com/vlacko0930) vezetésével a HTML fájlokban lehet rabszolgamunkában átalakításokat végezni pl. a nyomtathatóság érdekében. Lásd: https://github.com/breviar-sk/Liturgia-hodin-online/issues/11
-- Egyszer majd: a projekt alkalmassá tétetel hanganyagok fogadására és összeállítására #hangoszsolozsma jeligére.
+- [Vörös László](https://github.com/vlacko0930) vezetésével a HTML fájlokban lehet rabszolgamunkában átalakításokat végezni pl. a nyomtathatóság érdekében. Lásd: https://github.com/breviar-sk/Liturgia-hodin-online/issues/11
+    - Annyira nem is biztos, hogy rabszolga munka, hisz jó `\reguláris kifejezés((ekk)|(s))el\g` vagy jó prompt engineeringgel is valószínű megoldható.
+    - A feladat az, hogy `<div class="strophe">` címkék közé betenni a strófákat, amiket nem szeretnénk, hogy a nyomtatás oldaltörjön. Pl nagyon idegesítőek az asteriskusnál (*) való törések. És ezt a zsolozsma minden támogatott nyelvén (latin, magyar, izlandi, cseh, cseh domonkos, szlovák) meg kellene tenni.
+    - Ezeket a nyelveket nem kell érteni, hisz a *-okat, kereszteket látjuk, illetve van pár segédosztály, ami segítségünkre van, ezért lehet reguláris kifejezéssel megoldani.
+- Egyszer majd: a projekt alkalmassá tétele hanganyagok fogadására és összeállítására #hangoszsolozsma jeligére.
 
 ## AndroKat
 ![last commit](https://img.shields.io/github/last-commit/agu5a/androkat?style=for-the-badge)
