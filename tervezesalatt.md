@@ -35,5 +35,6 @@ Van olyan plébánia, aminek nincs honlapja. Egy "kifogás", amit hallottam, hog
 - Az MKDocs Markdownból egyszerűen készít befektetésarányosan nagyszerű weboldalakat.
 - Lehetne olyan bash/python/batch scriptet írni, ami a Pandocot lefuttatja, az MKDocsnak megfelelően bemásolja, legenerálja az oldalt, és feltölti GitHub Pagesre.
 - Itt már csak azt kell megtanítani a plébániáknak, hogy hova mentsék a dokumentumaikat, és egy ikonra bármelyik felhasználó rá tud nyomni.
+- Alternatíva lehet még a Jekyll
 
 Érdeklódés [Vörös Lászlónál](https://github.com/vlacko0930)
