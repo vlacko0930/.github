@@ -27,3 +27,14 @@ Bár "nem időszerű" a hivatalos szervek szerint, mégis a jövő az, hogy - k�
 - Készülő specifikáció: https://github.com/szentjozsefhackathon/misekonyv-spec
 - Honlap: http://misekonyv.hu/
 
+## Plébánia honlap egyszerűen
+Van olyan plébánia, aminek nincs honlapja. Egy "kifogás", amit hallottam, hogy sok az évi 20.000 Ft honlapüzemeltetés. Amit maximum domain árból ki lehetne hozni, és az max. 3000 Ft/év. Ami kevesebb, mint 10 Ft/nap. 
+
+- A legtöbb plébánia már legalább Wordben elkészíti a hirdetését. És esetleg Excelben a miserendet.
+- A Pandoc a Wordot át tudja konvertálni Markdownra, és a különböző programnyelvek (elsősorban JS és Python) tudják kezelni az Excelt, így abból is lehet Markdownt csinálni. 
+- Az MKDocs Markdownból egyszerűen készít befektetésarányosan nagyszerű weboldalakat.
+- Lehetne olyan bash/python/batch scriptet írni, ami a Pandocot lefuttatja, az MKDocsnak megfelelően bemásolja, legenerálja az oldalt, és feltölti GitHub Pagesre.
+- Itt már csak azt kell megtanítani a plébániáknak, hogy hova mentsék a dokumentumaikat, és egy ikonra bármelyik felhasználó rá tud nyomni.
+- Alternatíva lehet még a Jekyll
+
+Érdeklódés [Vörös Lászlónál](https://github.com/vlacko0930)
