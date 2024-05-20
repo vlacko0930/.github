@@ -202,3 +202,15 @@ A weboldalak szövegében található szentírási hivakozásokat jeleníti meg,
 - Forráskód: https://github.com/molnarm/igemutato
 - Honlap: https://molnarm.github.io/igemutato/
 
+## Szentek élete 
+![](https://img.shields.io/github/last-commit/hdadr/szene-public?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/hdadr/szene-public?style=for-the-badge) 
+![](https://img.shields.io/github/issues/hdadr/szene-public?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/hdadr/szene-public?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-hdadr-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fhdadr)
+
+Egy offline-onlnine PWA alkalmazás, ami egybefoglalna több olyan funkciót, amely a mindennapi életben segít az Isten keresésben (mise/templom keresése, ünnepnapok és időszakok, napi szentek, napi olvasmányok, zsolozsma, szentírás, kb ezek vannak tervben vagy kisebb nagyobb mértékben megvalósítva, új ötletek jöhetnek). További infó a reopóban.
+
+- Kulcsszavak: *pwa, offline first, vite, react (ts), tailwind, shadcn-ui*
+- Forráskód: https://github.com/hdadr/szene-public
+- Honlap: https://szentekelete.vercel.app/ (mobil nézetre optimalizálva, ha asztali gépen nyitod meg, akkor a devtools mobil nézetet érdemes bekapcsolni)
