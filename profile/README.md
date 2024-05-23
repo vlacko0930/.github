@@ -29,7 +29,7 @@ Az okosotthonok mintájára a szegedi Szent József templomban számos automatik
 
 Gyűjtjük azokat a projekteket is, amiknek még "csak" pár tíz oldalas specifikációja van. Gondolkozzunk közösen!
 
-### [További figyelemreméltó projektek](/figyelemremmeltoak.md)
+### [További figyelemreméltó projektek](/figyelemremeltoak.md)
 Itt vannak olyan katolikus/keresztény projektek amik a Szent József Hackathon tematikájába szépen beleillenek, de nincs hozzájuk semmi közünk.
 
 
