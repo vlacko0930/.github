@@ -214,3 +214,16 @@ Egy offline-onlnine PWA alkalmazás, ami egybefoglalna több olyan funkciót, am
 - Kulcsszavak: *pwa, offline first, vite, react (ts), tailwind, shadcn-ui*
 - Forráskód: https://github.com/hdadr/szene-public
 - Honlap: https://szentekelete.vercel.app/ (mobil nézetre optimalizálva, ha asztali gépen nyitod meg, akkor a devtools mobil nézetet érdemes bekapcsolni)
+
+## Sematizumus
+![](https://img.shields.io/github/last-commit/szentjozsefhackathon/sematizmus?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/sematizmus?style=for-the-badge) 
+![](https://img.shields.io/github/issues/szentjozsefhackathon/sematizmus?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/szentjozsefhackathon/sematizmus?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-szentjozsefhackathon-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
+
+Magyarország római- és görögkatolikus egyházmegyéinek, katonai ordinariátusának papjait hivatott összegyűjteni ez az oldal a honlapokon fellelhető adatok alapján.
+
+- Kulcsszavak: *Python, BeautifulSoup, HTML, Bootstrap, Selenium*
+- Forráskód: https://github.com/szentjozsefhackathon/sematizmus
+- Honlap: https://szentjozsefhackathon.github.io/sematizmus
