@@ -215,7 +215,7 @@ Egy offline-onlnine PWA alkalmazás, ami egybefoglalna több olyan funkciót, am
 - Forráskód: https://github.com/hdadr/szene-public
 - Honlap: https://szentekelete.vercel.app/ (mobil nézetre optimalizálva, ha asztali gépen nyitod meg, akkor a devtools mobil nézetet érdemes bekapcsolni)
 
-## Sematizumus
+## Sematizmus
 ![](https://img.shields.io/github/last-commit/szentjozsefhackathon/sematizmus?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/sematizmus?style=for-the-badge) 
 ![](https://img.shields.io/github/issues/szentjozsefhackathon/sematizmus?style=for-the-badge)
@@ -227,3 +227,17 @@ Magyarország római- és görögkatolikus egyházmegyéinek, katonai ordinariá
 - Kulcsszavak: *Python, BeautifulSoup, HTML, Bootstrap, Selenium*
 - Forráskód: https://github.com/szentjozsefhackathon/sematizmus
 - Honlap: https://szentjozsefhackathon.github.io/sematizmus
+
+
+## PapIma
+![](https://img.shields.io/github/last-commit/szentjozsefhackathon/papima?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/papima?style=for-the-badge) 
+![](https://img.shields.io/github/issues/szentjozsefhackathon/papima?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/szentjozsefhackathon/papima?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-szentjozsefhackathon-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
+
+A [Sematizmus](https://github.com/szentjozsefhackathon/.github/edit/main/projektek.md#sematizmus)ból kigyűjti a papokat, és segíti az értük való imát.
+
+- Kulcsszavak: *Flutter, Supabase*
+- Forráskód: https://github.com/szentjozsefhackathon/papima
+- Honlap: https://papima.hu
