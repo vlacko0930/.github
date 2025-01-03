@@ -12,7 +12,7 @@ De ez ne tévesszen meg senkit, a közösségbe hosszabb-rövidebb ideig beszál
 Területek amiken dolgozunk és amikbe be lehet csatlakozni:
 
 ### [Projektek](/projektek.md)
-*Diatár, NapiPakk, Gyóntatáskereső, SZENTIRAS.HU, MISEREND.HU, Miserend Mobil App, MisEnapló, Zsolozsma, AndroKat, Szentség(örök)imádás szervező alkalmazás, Ignáci Szikrák, Katolikus KSH, Liturgia.tv, igemutató, sematizmus*
+*Diatár, NapiPakk, Gyóntatáskereső, SZENTIRAS.HU, MISEREND.HU, Miserend Mobil App, MisEnapló, Zsolozsma, AndroKat, Szentség(örök)imádás szervező alkalmazás, Ignáci Szikrák, Katolikus KSH, Liturgia.tv, igemutató, sematizmus, PapIma*
 
 Már több mint egy tucat olyan magyar nyelvű katolikus digitális keresztény projekt van, amihez valamilyen módon kapcsolódunk. Szívesen bővítjük a listát, és várunk mindenkit aki bekapcsolódna. A teljes listához, forráskódhoz, felelősökhöz és fejleszteni valókhoz nézd át a listánkat.
 
